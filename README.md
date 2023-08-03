@@ -30,6 +30,6 @@ We reserve the right to update our privacy policy from time to time. Any changes
 
 **7. Contact Us**
 
-If you have any questions or concerns about this privacy policy or the use of Runic Bot, please feel free to contact us at [your contact information].
+If you have any questions or concerns about this privacy policy or the use of Runic Bot, please feel free to contact us through Runic bot support server..
 
 By using Runic Bot, you consent to the practices outlined in this privacy policy. It is essential to review this policy periodically to stay informed about how we are protecting your data and improving our services.
