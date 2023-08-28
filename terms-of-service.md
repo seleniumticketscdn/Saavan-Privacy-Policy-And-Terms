@@ -1,20 +1,20 @@
-**Terms of Service for Runic Discord Bot**
+**Terms of Service for Saavan Discord Bot**
 
 Last updated: [2 August ,2023]
 
-Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the Runic Discord bot ("Runic Bot") operated by Runics Development ("us", "we", or "our").
+Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the Saavan Discord bot ("Saavan Bot") operated by Saavan Development ("us", "we", or "our").
 
 By adding Runic Bot to your Discord server or using any of its features, you agree to be bound by these Terms. If you disagree with any part of these Terms, you may not use Runic Bot.
 
-**1. Use of Runic Bot**
+**1. Use of Saavan Bot**
 
-1.1. Runic Bot is a third-party bot designed to provide various functionalities and features for Discord servers. By adding the bot to your server, you acknowledge that Runic Bot may access and process certain information within your server to deliver its services.
+1.1. Saavan Bot is a third-party bot designed to provide various functionalities and features for Discord servers. By adding the bot to your server, you acknowledge that Runic Bot may access and process certain information within your server to deliver its services.
 
 1.2. You agree not to use Runic Bot for any malicious, harmful, or illegal activities. You must comply with all applicable laws and Discord's terms of service while using the bot.
 
 **2. Bot Availability**
 
-2.1. We strive to maintain the availability and functionality of Runic Bot at all times. However, we do not guarantee uninterrupted or error-free access to the bot due to potential server downtime, maintenance, or other technical issues.
+2.1. We strive to maintain the availability and functionality of Saavan Bot at all times. However, we do not guarantee uninterrupted or error-free access to the bot due to potential server downtime, maintenance, or other technical issues.
 
 2.2. We reserve the right to update, modify, or discontinue Runic Bot at any time without prior notice.
 
@@ -26,7 +26,7 @@ By adding Runic Bot to your Discord server or using any of its features, you agr
 
 **4. Disclaimer**
 
-4.1. Runic Bot is provided "as is" and without warranties of any kind, whether expressed or implied. We do not guarantee the accuracy, completeness, or reliability of the bot's functionalities.
+4.1. Saavan Bot is provided "as is" and without warranties of any kind, whether expressed or implied. We do not guarantee the accuracy, completeness, or reliability of the bot's functionalities.
 
 4.2. We shall not be liable for any damages or losses resulting from the use of Runic Bot, including but not limited to direct, indirect, incidental, or consequential damages.
 
